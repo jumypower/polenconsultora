@@ -1,4 +1,7 @@
 {
   "private": true,
-  "main": "./server/index.mjs"
+  "main": "./server/index.mjs",
+  "scripts": {
+    "start": "node ./server/index.mjs"
+  }
 }
