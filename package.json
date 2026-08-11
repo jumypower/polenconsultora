@@ -2,6 +2,6 @@
   "private": true,
   "main": "./server/index.mjs",
   "scripts": {
-    "start": "node ./server/index.mjs"
+    "start": "node ./server/index.mjs --port $PORT"
   }
 }
